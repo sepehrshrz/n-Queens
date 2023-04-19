@@ -1,2 +1,2 @@
-problem solving of 8 queens with recursive function in golang
+problem solving of n queens with recursive function in golang
 # n-Queens
